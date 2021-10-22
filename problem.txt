@@ -1,0 +1,3 @@
+I was having problem how to use observer pattern in my project. I wanted to notify students and parents about assessment.
+But Do not know where to create these observers as I was also using singleton pattern. After some research I get to know that I can even create these observers in private constructor of my Portal class.
+So, I did that It works fine.
